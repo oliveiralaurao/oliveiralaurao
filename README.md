@@ -20,7 +20,7 @@
 - melhorias nos meus projetos de portfólio
 
 ## 🌱 atualmente aprendendo:
-- Laravel  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+- Laravel  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40" />
           
 
 
