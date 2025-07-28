@@ -1,10 +1,10 @@
 # 👋 oi, eu sou a laura!
 
-💻 desenvolvedora full stack em formação, mas é no **back-end** que eu realmente jogo duro.
+💻 desenvolvedora com foco em back-end, sempre buscando construir soluções claras, organizadas e eficientes.
 
-🚀 comecei a programar aos 16 anos e desde então venho construindo soluções com foco em clareza, organização e performance.
+🚀 comecei a programar aos 16 anos e desde então venho me dedicando ao desenvolvimento de sistemas com lógica bem estruturada e atenção aos detalhes.
 
-🎯 gosto de resolver problemas, criar códigos limpos e trabalhar em projetos desafiadores — principalmente quando tem espaço pra aprender coisa nova.
+🎯 gosto de resolver problemas, escrever código limpo e participar de projetos desafiadores — principalmente quando envolvem aprendizado e evolução constante.
 
 📚 atualmente estou no **2º termo de Sistemas de Informação na Unoeste**, cursando:
 - Algoritmos e Técnicas de Programação II
